@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Newfit</string>
+    <string name="slogan">на пути к совершенству</string>
+    <string name="days">День: </string>
+    <string name="start">начать</string>
+    <string name="next">далее</string>
+    <string name="rest">осталось: </string>
+    <string name="reset">сбросить</string>
+    <string name="rest_days">дней</string>
+    <string name="finished">"All sets for today!"</string>
+    <string name="waiting_message">упражнения начнутся через: </string>
+    <string name="exercisess">упражнений</string>
+    <string name="alert">внимание</string>
+    <string name="goBack">вернуться назад</string>
+    <string name="back">отмена</string>
+    <string name="reset_days_message">Вы действительно хотите сбросить все дни тренировки?</string>
+    <string name="reset_day_message"> Хотите сбросить этот день и повторить упражнения?</string>
+    <string name="you_are_about_finish">"вы завершаете"</string>
+
+    <string name="days_left">осталось 10 дней</string>
+    <string name="large_text">
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

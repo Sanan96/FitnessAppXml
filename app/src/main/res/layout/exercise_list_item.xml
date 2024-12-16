@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="5dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginEnd="5dp"
+    app:cardCornerRadius="6dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#D6C8C8">
+
+        <ImageView
+            android:id="@+id/imEx"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            app:srcCompat="@drawable/ic_launcher_foreground"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="ddddddddd"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@+id/imEx"
+            app:layout_constraintEnd_toStartOf="@+id/tvCount"
+            app:layout_constraintStart_toEndOf="@+id/imEx"
+            app:layout_constraintTop_toTopOf="@+id/imEx" />
+
+        <CheckBox
+            android:id="@+id/chB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            app:layout_constraintBottom_toBottomOf="@+id/imEx"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/imEx" />
+
+        <TextView
+            android:id="@+id/tvCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:text="x30"
+            android:textColor="#2A56BD"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@+id/imEx"
+            app:layout_constraintEnd_toStartOf="@+id/chB"
+            app:layout_constraintTop_toTopOf="@+id/imEx" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

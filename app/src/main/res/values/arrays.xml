@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string-array name="exercises_info">
+      <item>relax|30|relax-5-15994.gif</item> <!--1-->
+      <item>contractions|30|HL-01.01.AbContractions.gif</item> <!--2-->
+      <item>legDrops|x20|HL-01.02.LegDrops.gif</item> <!--3-->
+      <item>hipLift|x20|HL-01.03.HipLift.gif</item> <!--4-->
+      <item>boatPose|x20|HL-01.04.BoatPose.gif</item> <!--5-->
+      <item>climbers|30|HL-01.05.MountainClimbers.gif</item> <!--6-->
+      <item>plank|35|HL-01.06.RockingPlank.gif</item> <!--7-->
+      <item>hundred|x30|HL-01.08.TheHundred.gif</item> <!--8-->
+      <item>bicycle|25|HL-01.09.BicycleCrunches.gif</item> <!--9-->
+      <item>flutterKicks|30|HL-01.10.FlutterKicks.gif</item> <!--10-->
+
+ </string-array>
+
+   <string-array name="exerc_by_days">
+      <item>4,0,5,0,7,0,9,0,6,0,1</item>    <!--1-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--2-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--3-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--4-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--5-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--6-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--7-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--8-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--9-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--10-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--11-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--12-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--13-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--14-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--15-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--16-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--17-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--18-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--19-->
+      <item>4,0,5,0,7,0,9,0,6,0,7,1,0,3,2,0,8</item>    <!--20-->
+
+   </string-array>
+    
+    
+    
+    
+    
+</resources>
